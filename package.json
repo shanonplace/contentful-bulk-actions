@@ -1,0 +1,16 @@
+{
+  "name": "bulk-api",
+  "version": "1.0.0",
+  "description": "Testing out some bulk api endpoint stuff to make client examples",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shanon Place",
+  "license": "ISC",
+  "dependencies": {
+    "contentful-management": "^11.8.0",
+    "dotenv": "^16.3.1"
+  }
+}
